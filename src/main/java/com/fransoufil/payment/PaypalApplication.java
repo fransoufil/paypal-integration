@@ -1,4 +1,4 @@
-package com.frandsoufil.payment;
+package com.fransoufil.payment;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

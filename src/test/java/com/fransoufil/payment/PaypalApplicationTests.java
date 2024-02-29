@@ -1,4 +1,4 @@
-package com.frandsoufil.payment;
+package com.fransoufil.payment;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
